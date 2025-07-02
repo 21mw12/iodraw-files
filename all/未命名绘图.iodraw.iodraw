@@ -80,10 +80,10 @@
           <mxGeometry x="100" y="520" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;breaker&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;human_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
