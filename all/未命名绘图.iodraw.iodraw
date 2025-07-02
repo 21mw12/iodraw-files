@@ -298,17 +298,17 @@
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-81" value="数采终端管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-82" value="空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-82" value="传感器管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-83" value="D2200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-84" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-85" value="7121北" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1320" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="380" width="120" height="60" as="geometry" />
