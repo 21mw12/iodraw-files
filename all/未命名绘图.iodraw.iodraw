@@ -7,7 +7,7 @@
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;room&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;房间&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;sensor_box&lt;br&gt;传感器箱子&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;box&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;传感器箱子&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;room_id&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
