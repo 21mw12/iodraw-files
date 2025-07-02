@@ -61,6 +61,12 @@
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="110" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-20" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-21" value="number&lt;div&gt;箱子编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
