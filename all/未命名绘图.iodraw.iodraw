@@ -100,8 +100,8 @@
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-33" value="box_id = gateid&lt;div&gt;saleid是什么&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-34" value="box_id = gateid&lt;div&gt;saleid是什么&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="100" height="120" as="geometry" />
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-34" value="温湿度传感器XX" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="100" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
