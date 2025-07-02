@@ -53,16 +53,16 @@
           <mxGeometry x="240" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-15" value="name&lt;div&gt;房间名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-16" value="type&lt;div&gt;房间类型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-17" value="ampere&lt;div&gt;电流&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="50" width="80" height="40" as="geometry" />
+          <mxGeometry x="500" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="140" width="80" height="40" as="geometry" />
+          <mxGeometry x="500" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-20" value="room_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="80" height="40" as="geometry" />
