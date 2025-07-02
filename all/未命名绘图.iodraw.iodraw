@@ -302,13 +302,13 @@
           <mxGeometry x="930" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-83" value="D2200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-84" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-85" value="7121北" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="380" width="120" height="60" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry x="930" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-89" value="id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-90" value="234" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="525" width="120" height="60" as="geometry" />
