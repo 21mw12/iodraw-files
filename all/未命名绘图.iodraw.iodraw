@@ -47,13 +47,16 @@
           <mxGeometry x="530" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-14" value="number" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-15" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="630" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-16" value="type" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-17" value="type" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="10" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
