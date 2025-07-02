@@ -80,7 +80,7 @@
           <mxGeometry x="80" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;breaker&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;humanbody_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;人体传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="660" width="160" height="60" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="30" y="820" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;noise_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;噪声传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-31" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;coo_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;CO2传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="630" width="120" height="60" as="geometry" />
@@ -107,10 +107,10 @@
           <mxGeometry x="10" y="565" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-37" value="temp&lt;div&gt;温度&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="565" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-38" value="&lt;div&gt;humi&lt;/div&gt;&lt;div&gt;湿度&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="565" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
