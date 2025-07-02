@@ -80,13 +80,16 @@
           <mxGeometry x="100" y="520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;breaker&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;humanbody_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;人体传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="610" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-28" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;humancount_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;人数传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="700" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;breaker&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
