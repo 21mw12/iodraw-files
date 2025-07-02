@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Tid_WdEVQYHPiqXQOl6S">
-    <mxGraphModel dx="653" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1614" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,25 +77,25 @@
           <mxGeometry x="490" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;temphumi_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;温湿度传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="160" height="60" as="geometry" />
+          <mxGeometry x="115" y="530" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;breaker&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="395" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;humanbody_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;人体传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="660" width="160" height="60" as="geometry" />
+          <mxGeometry x="115" y="710" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-28" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;humancount_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;人数传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="900" width="160" height="60" as="geometry" />
+          <mxGeometry x="220" y="1020" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;noise_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;噪声传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="395" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-31" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;coo_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;CO2传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="635" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-32" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;vtoc_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;气体传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="635" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-33" value="box_id = gateid&lt;div&gt;saleid是什么&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="100" height="120" as="geometry" />
@@ -107,34 +107,34 @@
           <mxGeometry x="120" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-37" value="temp&lt;div&gt;温度&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="95" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-38" value="&lt;div&gt;humi&lt;/div&gt;&lt;div&gt;湿度&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="215" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-40" value="...&lt;div&gt;一堆参数&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="415" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-42" value="value" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="655" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-43" value="time" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-44" value="bodysen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="65" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-45" value="bodydets" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="155" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-46" value="bodymot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="245" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-47" value="value" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="415" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-48" value="value" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="655" y="790" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
