@@ -119,7 +119,10 @@
           <mxGeometry x="430" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-41" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-42" value="value" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="550" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
