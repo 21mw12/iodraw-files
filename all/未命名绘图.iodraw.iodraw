@@ -13,7 +13,7 @@
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;terminal&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;终端&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;room_id&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Mj1f9SJ7XwkVNDqdx2za-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;spid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-3" target="Mj1f9SJ7XwkVNDqdx2za-1" edge="1">
@@ -338,7 +338,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-12" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;authority&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;用户权限&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="947" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
