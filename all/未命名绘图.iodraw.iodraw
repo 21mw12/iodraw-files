@@ -340,8 +340,8 @@
         <mxCell id="HofzfAZEAfIWRQf1qmjR-13" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;building&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;楼宇&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HofzfAZEAfIWRQf1qmjR-14" value="存hocon&lt;br&gt;C&lt;div&gt;U&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;D&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="35" width="70" height="65" as="geometry" />
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-14" value="存hocon&lt;br&gt;C：Create&lt;div&gt;U：Update&lt;/div&gt;&lt;div&gt;R：Read&lt;/div&gt;&lt;div&gt;D：Delete&lt;/div&gt;&lt;div&gt;O：Operate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="50" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-17" value="authority&lt;div&gt;权限&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="80" width="80" height="40" as="geometry" />
