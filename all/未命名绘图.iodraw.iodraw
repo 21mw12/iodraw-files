@@ -419,9 +419,9 @@
           <mxGeometry x="100" y="625" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-79" value="sid" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="160" y="565" width="80" height="40" as="geometry" />
+          <mxGeometry x="139" y="570" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HofzfAZEAfIWRQf1qmjR-81" value="type" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-81" value="field" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="550" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
