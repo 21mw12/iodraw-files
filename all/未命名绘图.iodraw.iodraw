@@ -307,6 +307,9 @@
         <mxCell id="HofzfAZEAfIWRQf1qmjR-4" value="password&lt;div&gt;密码&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="882.5" y="60" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-5" value="status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
