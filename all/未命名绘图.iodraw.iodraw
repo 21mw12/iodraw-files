@@ -337,8 +337,8 @@
             <mxPoint x="480" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HofzfAZEAfIWRQf1qmjR-12" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;auth&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;用户&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="957" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-12" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;authority&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;用户权限&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="957" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
