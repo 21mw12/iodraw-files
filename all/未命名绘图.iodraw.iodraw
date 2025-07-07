@@ -368,7 +368,7 @@
           <mxGeometry x="-473" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-68" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;record&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;操作记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-69" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;alarm&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;报警记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="781" width="120" height="60" as="geometry" />
@@ -431,7 +431,7 @@
           <mxGeometry x="-310" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-84" value="一条记录只记录某个传感器的某个值" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-183.5" y="1065" width="100" height="50" as="geometry" />
+          <mxGeometry x="-210" y="1090" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
