@@ -47,7 +47,7 @@
           <mxGeometry x="-763.5" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;breaker&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="855" width="120" height="60" as="geometry" />
+          <mxGeometry x="-550" y="685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;humanbody_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;人体传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="320" width="160" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="-663.5" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-40" value="...&lt;div&gt;一堆参数&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="935" width="80" height="40" as="geometry" />
+          <mxGeometry x="-530" y="765" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-42" value="value" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-370" y="560" width="80" height="40" as="geometry" />
@@ -162,8 +162,8 @@
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-26" target="Mj1f9SJ7XwkVNDqdx2za-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150" y="925" as="sourcePoint" />
-            <mxPoint x="-150" y="945" as="targetPoint" />
+            <mxPoint x="-240" y="755" as="sourcePoint" />
+            <mxPoint x="-240" y="775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-79" value="status&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
