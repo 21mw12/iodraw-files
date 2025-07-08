@@ -71,7 +71,7 @@
           <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-36" value="sid" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="82.5" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-37" value="temp&lt;div&gt;温度&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-793.5" y="400" width="80" height="40" as="geometry" />
@@ -385,7 +385,7 @@
             <mxPoint x="182" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HofzfAZEAfIWRQf1qmjR-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sGEffAUYwrG2L_l3dDzQ-2" target="Mj1f9SJ7XwkVNDqdx2za-43" edge="1">
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="sGEffAUYwrG2L_l3dDzQ-2" target="Mj1f9SJ7XwkVNDqdx2za-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="152.36000000000013" y="580.9399999999998" as="sourcePoint" />
             <mxPoint x="71" y="560" as="targetPoint" />
@@ -695,7 +695,7 @@
           <mxGeometry x="-47.5" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-5" value="type&lt;div&gt;终端类型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="405" width="80" height="40" as="geometry" />
+          <mxGeometry x="181.75" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-740" y="860" width="80" height="40" as="geometry" />
