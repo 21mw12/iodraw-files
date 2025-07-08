@@ -86,7 +86,7 @@
           <mxGeometry x="-370" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-43" value="time&lt;div&gt;上次上传时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="92.5" y="495" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-44" value="bodysen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="410" width="80" height="40" as="geometry" />
@@ -722,6 +722,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="580" as="sourcePoint" />
             <mxPoint x="-70" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGEffAUYwrG2L_l3dDzQ-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="sGEffAUYwrG2L_l3dDzQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="610" as="sourcePoint" />
+            <mxPoint x="-70" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
