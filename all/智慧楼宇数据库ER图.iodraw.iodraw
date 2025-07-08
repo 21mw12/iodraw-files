@@ -35,13 +35,13 @@
           <mxGeometry x="-73.5" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-22" value="&lt;div&gt;interval&lt;/div&gt;&lt;div&gt;上报间隔&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="130" width="80" height="40" as="geometry" />
+          <mxGeometry x="150" y="110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-23" value="last_time&lt;div&gt;上次上报时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="139" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="139.5" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-24" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="59" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="112.5" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;temphumi_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;温湿度传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-713.5" y="430" width="160" height="60" as="geometry" />
@@ -185,7 +185,7 @@
           <mxGeometry x="950" y="430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-6" value="status&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="150" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-8" value="type&lt;div&gt;终端类型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="30" width="80" height="40" as="geometry" />
