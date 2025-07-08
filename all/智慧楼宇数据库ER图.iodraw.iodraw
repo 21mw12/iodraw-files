@@ -47,7 +47,7 @@
           <mxGeometry x="-763.5" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;breaker&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;断路器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-743.5" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-460" y="855" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;humanbody_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;人体传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="320" width="160" height="60" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="70" y="740" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;noise_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;噪声传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-740" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-31" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;coo_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;CO2传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-580" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-32" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;vtoc_sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;气体传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="480" width="120" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="-663.5" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-40" value="...&lt;div&gt;一堆参数&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-723.5" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="-440" y="935" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-42" value="value" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="560" width="80" height="40" as="geometry" />
@@ -98,10 +98,10 @@
           <mxGeometry x="-310" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-47" value="value" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="730" width="80" height="40" as="geometry" />
+          <mxGeometry x="-720" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-48" value="value" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="730" width="80" height="40" as="geometry" />
+          <mxGeometry x="-560" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="sGEffAUYwrG2L_l3dDzQ-2" target="Mj1f9SJ7XwkVNDqdx2za-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -144,14 +144,14 @@
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-47" target="Mj1f9SJ7XwkVNDqdx2za-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-850" y="740" as="sourcePoint" />
-            <mxPoint x="-900" y="710" as="targetPoint" />
+            <mxPoint x="-840" y="580" as="sourcePoint" />
+            <mxPoint x="-890" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-48" target="Mj1f9SJ7XwkVNDqdx2za-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-590" y="740" as="sourcePoint" />
-            <mxPoint x="-590" y="710" as="targetPoint" />
+            <mxPoint x="-750" y="580" as="sourcePoint" />
+            <mxPoint x="-750" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-32" target="Mj1f9SJ7XwkVNDqdx2za-42" edge="1">
@@ -162,8 +162,8 @@
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-26" target="Mj1f9SJ7XwkVNDqdx2za-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-433.5" y="550" as="sourcePoint" />
-            <mxPoint x="-433.5" y="570" as="targetPoint" />
+            <mxPoint x="-150" y="925" as="sourcePoint" />
+            <mxPoint x="-150" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-79" value="status&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
