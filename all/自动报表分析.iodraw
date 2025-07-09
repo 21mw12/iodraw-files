@@ -50,7 +50,7 @@
           <mxGeometry x="340" y="650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-20" value="图片存放到&lt;div&gt;本地&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-23" value="同一个字段里&lt;div&gt;用于记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="790" width="80" height="40" as="geometry" />
