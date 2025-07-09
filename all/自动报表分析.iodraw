@@ -55,6 +55,9 @@
         <mxCell id="A8uBkzMjvj-TGYysvUWa-23" value="将报告JSON&lt;div&gt;保存到记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="790" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hCK0rLXrfW4tFOqR_q2J-2" value="保存接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="860" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
