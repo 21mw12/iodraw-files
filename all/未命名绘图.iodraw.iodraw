@@ -35,34 +35,34 @@
           <mxGeometry x="140" y="45" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-11" value="查看" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="40" width="40" height="20" as="geometry" />
+          <mxGeometry x="290" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="45" width="10" height="10" as="geometry" />
+          <mxGeometry x="280" y="45" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-13" value="新增" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="40" width="40" height="20" as="geometry" />
+          <mxGeometry x="340" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="45" width="10" height="10" as="geometry" />
+          <mxGeometry x="330" y="45" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-15" value="修改" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="40" width="40" height="20" as="geometry" />
+          <mxGeometry x="390" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="45" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="45" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-17" value="删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="40" height="20" as="geometry" />
+          <mxGeometry x="440" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="45" width="10" height="10" as="geometry" />
+          <mxGeometry x="430" y="45" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wwKT_x9rPgHHAvLzO0J4-19" value="删除" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="50" width="40" height="20" as="geometry" />
+        <mxCell id="wwKT_x9rPgHHAvLzO0J4-19" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="55" width="10" height="10" as="geometry" />
+          <mxGeometry x="480" y="45" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
