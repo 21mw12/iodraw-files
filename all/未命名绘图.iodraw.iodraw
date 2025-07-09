@@ -46,8 +46,8 @@
         <mxCell id="A8uBkzMjvj-TGYysvUWa-15" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A8uBkzMjvj-TGYysvUWa-16" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="80" height="40" as="geometry" />
+        <mxCell id="A8uBkzMjvj-TGYysvUWa-16" value="统计数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
