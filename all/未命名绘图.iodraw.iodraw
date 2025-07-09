@@ -310,6 +310,9 @@
         <mxCell id="wwKT_x9rPgHHAvLzO0J4-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="215" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="wwKT_x9rPgHHAvLzO0J4-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
