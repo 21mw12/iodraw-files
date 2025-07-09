@@ -37,7 +37,7 @@
         <mxCell id="A8uBkzMjvj-TGYysvUWa-11" value="跳转网页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A8uBkzMjvj-TGYysvUWa-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8uBkzMjvj-TGYysvUWa-12" value="报表模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="80" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-13" value="大模型对话窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
