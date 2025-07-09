@@ -5,37 +5,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A8uBkzMjvj-TGYysvUWa-1" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-2" value="用户需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="110" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-3" value="获取查询条件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-4" value="查数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-5" value="AI分析&lt;div&gt;部分数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-6" value="AI再分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-7" value="保存分析结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-8" value="模板选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="110" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-9" value="统一查询接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-10" value="保存接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-11" value="跳转网页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-12" value="报表模板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="120" height="160" as="geometry" />
@@ -44,24 +44,24 @@
           <mxGeometry x="1010" y="40" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-15" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-16" value="统计数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-20" value="图片存放到&lt;div&gt;本地&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-23" value="将报告JSON&lt;div&gt;保存到记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCK0rLXrfW4tFOqR_q2J-2" value="读取报告JSON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCK0rLXrfW4tFOqR_q2J-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="230" as="sourcePoint" />
-            <mxPoint x="530" y="180" as="targetPoint" />
+            <mxPoint x="460" y="200" as="sourcePoint" />
+            <mxPoint x="510" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
