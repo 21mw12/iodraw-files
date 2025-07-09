@@ -955,8 +955,11 @@
         <mxCell id="W2cwM73YBw9lt2lCOar8-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;role&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;手机号&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="55" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W2cwM73YBw9lt2lCOar8-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;role&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;手机号&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2cwM73YBw9lt2lCOar8-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;account&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;手机号&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="491.5" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W2cwM73YBw9lt2lCOar8-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;account&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;手机号&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
