@@ -67,8 +67,14 @@
         <mxCell id="A8uBkzMjvj-TGYysvUWa-21" value="图片名存&lt;div&gt;数据库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A8uBkzMjvj-TGYysvUWa-23" value="存到数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8uBkzMjvj-TGYysvUWa-23" value="同一个字段里&lt;div&gt;用于记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8uBkzMjvj-TGYysvUWa-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="400" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
