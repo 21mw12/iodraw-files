@@ -817,13 +817,13 @@
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-9" value="各种页面&lt;div&gt;是否&lt;span style=&quot;background-color: initial;&quot;&gt;能查看&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-10" value="数值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-10" value="&lt;div&gt;value&lt;/div&gt;数值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-11" value="统计时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-12" value="统计间隔" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-12" value="&lt;div&gt;interval&lt;/div&gt;统计间隔" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="870" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-13" value="hid&lt;div&gt;唯一id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
