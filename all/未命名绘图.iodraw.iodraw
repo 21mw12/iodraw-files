@@ -14,16 +14,16 @@
           <mxGeometry x="240" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-4" value="查数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-5" value="AI分析&lt;div&gt;特定数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-6" value="AI再分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-7" value="保存数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-8" value="模板选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="760" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-11" value="跳转网页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="730" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-12" value="报表模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="80" width="120" height="160" as="geometry" />
