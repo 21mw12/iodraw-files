@@ -818,7 +818,7 @@
           <mxGeometry x="360" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-10" value="&lt;div&gt;value&lt;/div&gt;数值" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="858.44" width="80" height="40" as="geometry" />
+          <mxGeometry x="410" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-11" value="&lt;div&gt;time&lt;/div&gt;统计时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="758.44" width="80" height="40" as="geometry" />
@@ -893,7 +893,7 @@
           <mxGeometry x="450" y="270" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-29" value="item&lt;div&gt;记录项&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="828.44" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="820" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-30" value="alarm_count预警数量&lt;div&gt;sensor_&lt;span style=&quot;background-color: initial;&quot;&gt;online_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;count在线设备数量&lt;/span&gt;&lt;/div&gt;&lt;div&gt;sensor_liveness_count传感器活跃度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="910" width="250" height="60" as="geometry" />
@@ -910,7 +910,7 @@
             <mxPoint x="340" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.475;exitY=0.026;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="KKTgP6Od6wfjdxHzc8nI-29" edge="1">
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KKTgP6Od6wfjdxHzc8nI-30" target="KKTgP6Od6wfjdxHzc8nI-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="289.75" y="900.0000000000002" as="sourcePoint" />
             <mxPoint x="190" y="908.44" as="targetPoint" />
