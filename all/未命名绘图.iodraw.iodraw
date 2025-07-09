@@ -67,6 +67,9 @@
         <mxCell id="A8uBkzMjvj-TGYysvUWa-21" value="图片名存&lt;div&gt;数据库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="A8uBkzMjvj-TGYysvUWa-23" value="存到数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
