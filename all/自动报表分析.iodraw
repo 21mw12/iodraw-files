@@ -194,8 +194,8 @@
         <mxCell id="hCK0rLXrfW4tFOqR_q2J-28" value="渲染结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hCK0rLXrfW4tFOqR_q2J-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="hCK0rLXrfW4tFOqR_q2J-29" value="需要实现毕昇可以通过某种方式从外部输入参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
