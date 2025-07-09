@@ -49,7 +49,7 @@
         <mxCell id="A8uBkzMjvj-TGYysvUWa-12" value="报表模板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="A8uBkzMjvj-TGYysvUWa-13" value="大模型对话窗口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="A8uBkzMjvj-TGYysvUWa-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;毕昇&lt;/font&gt;对话窗口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-15" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
