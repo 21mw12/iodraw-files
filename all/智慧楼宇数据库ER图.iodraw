@@ -953,7 +953,7 @@
           <mxGeometry x="410" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W2cwM73YBw9lt2lCOar8-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;account&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;账号管理页面&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="60" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W2cwM73YBw9lt2lCOar8-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;system_page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;系统配置页面&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="150" width="80" height="40" as="geometry" />
@@ -964,7 +964,7 @@
             <mxPoint x="410" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2cwM73YBw9lt2lCOar8-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKTgP6Od6wfjdxHzc8nI-1" target="W2cwM73YBw9lt2lCOar8-5">
+        <mxCell id="W2cwM73YBw9lt2lCOar8-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKTgP6Od6wfjdxHzc8nI-1" target="W2cwM73YBw9lt2lCOar8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="135" as="sourcePoint" />
             <mxPoint x="540" y="130" as="targetPoint" />
