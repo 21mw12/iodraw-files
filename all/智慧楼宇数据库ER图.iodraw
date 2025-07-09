@@ -811,8 +811,8 @@
             <mxPoint x="150" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;role&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;角色&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;history&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;历史数据&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
