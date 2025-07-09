@@ -50,7 +50,7 @@
           <mxGeometry x="40" y="80" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-13" value="大模型对话窗口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="80" width="120" height="160" as="geometry" />
+          <mxGeometry x="160" y="80" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-15" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="650" width="80" height="40" as="geometry" />
