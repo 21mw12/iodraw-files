@@ -814,7 +814,7 @@
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;history&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;历史数据&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="421.5" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-9" value="页面是否&lt;div&gt;能查看&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-9" value="各种页面&lt;div&gt;是否&lt;span style=&quot;background-color: initial;&quot;&gt;能查看&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-10" value="数值" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -904,7 +904,7 @@
             <mxPoint x="330" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKTgP6Od6wfjdxHzc8nI-1" target="KKTgP6Od6wfjdxHzc8nI-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="120" as="sourcePoint" />
             <mxPoint x="340" y="70" as="targetPoint" />
