@@ -35,7 +35,7 @@
           <mxGeometry x="640" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-11" value="跳转网页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-12" value="报表模板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="120" height="160" as="geometry" />
@@ -68,12 +68,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="310" as="sourcePoint" />
             <mxPoint x="650" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A8uBkzMjvj-TGYysvUWa-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="A8uBkzMjvj-TGYysvUWa-10" target="A8uBkzMjvj-TGYysvUWa-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="260" as="sourcePoint" />
-            <mxPoint x="820" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
