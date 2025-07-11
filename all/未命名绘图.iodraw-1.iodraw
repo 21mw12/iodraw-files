@@ -102,6 +102,9 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-56" value="计划：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="325" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-57" value="楼宇项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
