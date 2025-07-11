@@ -7,11 +7,8 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="80" width="120" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-5" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-12" target="S-gGk2eAG2BUxmPLWSZn-14">
           <mxGeometry relative="1" as="geometry" />
@@ -34,11 +31,11 @@
             <mxPoint x="90" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-19" value="系统服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-19" target="S-gGk2eAG2BUxmPLWSZn-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-26" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-19" value="系统服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-31" value="Subscriber&lt;br&gt;数据服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="80" height="30" as="geometry" />
@@ -104,6 +101,9 @@
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-48" value="Subscriber&lt;br&gt;数据服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="414" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-50" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
