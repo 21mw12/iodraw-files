@@ -11,7 +11,7 @@
           <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-10" value="虚拟数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-12" target="S-gGk2eAG2BUxmPLWSZn-14">
           <mxGeometry relative="1" as="geometry" />
