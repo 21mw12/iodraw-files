@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xb96sGtFbwmNBhEaWzON">
-    <mxGraphModel dx="1371" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="220" height="270" as="geometry" />
+          <mxGeometry x="100" y="600" width="220" height="270" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="120" height="170" as="geometry" />
@@ -127,116 +127,116 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-60" value="虚拟温湿度&lt;div&gt;数据生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-61" value="虚拟人体&lt;div&gt;数据生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-62" value="虚拟气体&lt;div&gt;数据生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="760" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-63" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="820" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="820" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="520" width="210" height="350" as="geometry" />
+          <mxGeometry x="370" y="520" width="210" height="350" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-66" value="真实数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="520" width="220" height="60" as="geometry" />
+          <mxGeometry x="100" y="520" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-68" value="虚拟数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-70" value="虚拟终端&lt;div&gt;数据生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="730" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-71" value="解析转存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-72" value="数据分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="615" width="80" height="40" as="geometry" />
+          <mxGeometry x="380" y="615" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-73" value="终端数据保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="585" width="80" height="40" as="geometry" />
+          <mxGeometry x="490" y="585" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-74" value="传感器&lt;div&gt;数据保存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="645" width="80" height="40" as="geometry" />
+          <mxGeometry x="490" y="645" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-75" value="预警检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="430" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-76" value="统计计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="790" width="80" height="40" as="geometry" />
+          <mxGeometry x="430" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-60" target="S-gGk2eAG2BUxmPLWSZn-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="690" as="sourcePoint" />
-            <mxPoint x="260" y="640" as="targetPoint" />
+            <mxPoint x="230" y="690" as="sourcePoint" />
+            <mxPoint x="280" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="660" />
-              <mxPoint x="190" y="750" />
+              <mxPoint x="210" y="660" />
+              <mxPoint x="210" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-63" target="S-gGk2eAG2BUxmPLWSZn-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="670" as="sourcePoint" />
-            <mxPoint x="220" y="760" as="targetPoint" />
+            <mxPoint x="210" y="670" as="sourcePoint" />
+            <mxPoint x="240" y="760" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="840" />
-              <mxPoint x="190" y="750" />
+              <mxPoint x="210" y="840" />
+              <mxPoint x="210" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-62" target="S-gGk2eAG2BUxmPLWSZn-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="720" as="sourcePoint" />
-            <mxPoint x="270" y="670" as="targetPoint" />
+            <mxPoint x="240" y="720" as="sourcePoint" />
+            <mxPoint x="290" y="670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="780" />
-              <mxPoint x="190" y="750" />
+              <mxPoint x="210" y="780" />
+              <mxPoint x="210" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-61" target="S-gGk2eAG2BUxmPLWSZn-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="790" as="sourcePoint" />
-            <mxPoint x="220" y="760" as="targetPoint" />
+            <mxPoint x="210" y="790" as="sourcePoint" />
+            <mxPoint x="240" y="760" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="720" />
-              <mxPoint x="190" y="750" />
+              <mxPoint x="210" y="720" />
+              <mxPoint x="210" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-66" target="S-gGk2eAG2BUxmPLWSZn-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="690" as="sourcePoint" />
-            <mxPoint x="300" y="640" as="targetPoint" />
+            <mxPoint x="270" y="690" as="sourcePoint" />
+            <mxPoint x="320" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-67" target="S-gGk2eAG2BUxmPLWSZn-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="560" as="sourcePoint" />
-            <mxPoint x="360" y="560" as="targetPoint" />
+            <mxPoint x="330" y="560" as="sourcePoint" />
+            <mxPoint x="380" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-72" target="S-gGk2eAG2BUxmPLWSZn-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="725" as="sourcePoint" />
-            <mxPoint x="440" y="675" as="targetPoint" />
+            <mxPoint x="410" y="725" as="sourcePoint" />
+            <mxPoint x="460" y="675" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="635" />
-              <mxPoint x="450" y="605" />
+              <mxPoint x="470" y="635" />
+              <mxPoint x="470" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-72" target="S-gGk2eAG2BUxmPLWSZn-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="715" as="sourcePoint" />
-            <mxPoint x="460" y="665" as="targetPoint" />
+            <mxPoint x="430" y="715" as="sourcePoint" />
+            <mxPoint x="480" y="665" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="635" />
-              <mxPoint x="450" y="665" />
+              <mxPoint x="470" y="635" />
+              <mxPoint x="470" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
