@@ -16,6 +16,9 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-10" value="虚拟数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-12" target="S-gGk2eAG2BUxmPLWSZn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-12" value="Breaker&lt;div&gt;中转服务器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
         </mxCell>
@@ -27,10 +30,7 @@
             <mxPoint x="420" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-14" target="S-gGk2eAG2BUxmPLWSZn-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-14" value="Subscriber&lt;br&gt;数据服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-14" value="解析转存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-13" target="S-gGk2eAG2BUxmPLWSZn-12">
