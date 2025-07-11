@@ -5,37 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-1" value="MQTT解析Mysql服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-3" value="D2200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-5" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-3" target="S-gGk2eAG2BUxmPLWSZn-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="100" as="sourcePoint" />
-            <mxPoint x="210" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="200" as="sourcePoint" />
-            <mxPoint x="160" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="S-gGk2eAG2BUxmPLWSZn-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="140" as="sourcePoint" />
-            <mxPoint x="170" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-10" target="S-gGk2eAG2BUxmPLWSZn-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-10" value="虚拟数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-12" target="S-gGk2eAG2BUxmPLWSZn-14">
           <mxGeometry relative="1" as="geometry" />
