@@ -38,10 +38,10 @@
           <mxGeometry x="340" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="120" height="170" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="120" height="170" as="geometry" />
+          <mxGeometry x="440" y="280" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-34" value="真实数据表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="80" height="40" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-36" value="虚拟数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-38" target="S-gGk2eAG2BUxmPLWSZn-41">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-45" value="虚拟数据表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-46" value="&lt;div&gt;数据服务器&lt;/div&gt;MySQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="80" height="30" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="10" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-57" value="楼宇项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="370" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
