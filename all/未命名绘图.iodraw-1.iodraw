@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-5" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-3" target="S-gGk2eAG2BUxmPLWSZn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,12 +34,6 @@
             <mxPoint x="170" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-1" target="S-gGk2eAG2BUxmPLWSZn-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="140" as="sourcePoint" />
-            <mxPoint x="180" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-10" target="S-gGk2eAG2BUxmPLWSZn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -55,8 +49,10 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-13" value="Publisher&lt;div&gt;D2200&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-14" target="S-gGk2eAG2BUxmPLWSZn-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-14" target="S-gGk2eAG2BUxmPLWSZn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-14" value="Subscriber&lt;br&gt;数据服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="80" height="40" as="geometry" />
@@ -66,9 +62,6 @@
             <mxPoint x="80" y="290" as="sourcePoint" />
             <mxPoint x="130" y="240" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
