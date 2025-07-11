@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="S-gGk2eAG2BUxmPLWSZn-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="735" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="600" width="120" height="270" as="geometry" />
+          <mxGeometry x="100" y="600" width="230" height="270" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="120" height="170" as="geometry" />
@@ -151,6 +146,9 @@
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-68" value="虚拟数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-70" value="虚拟温湿度&lt;div&gt;数据生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
