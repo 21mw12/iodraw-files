@@ -156,8 +156,11 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-72" value="数据分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-73" value="数据分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="670" width="80" height="40" as="geometry" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-73" value="终端数据保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="570" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-74" value="终端数据保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="630" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
