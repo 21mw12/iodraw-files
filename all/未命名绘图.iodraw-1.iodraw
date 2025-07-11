@@ -163,10 +163,10 @@
           <mxGeometry x="435" y="630" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-75" value="预警检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="435" y="740" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-76" value="预警检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="750" width="80" height="40" as="geometry" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-76" value="统计计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="800" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
