@@ -13,8 +13,11 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-3" value="D2200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-4" value="MQTT解析Mysql服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-4" value="Mongodb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-5" value="Mongodb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
