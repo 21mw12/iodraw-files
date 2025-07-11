@@ -63,8 +63,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-31" value="Subscriber&lt;br&gt;数据服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
