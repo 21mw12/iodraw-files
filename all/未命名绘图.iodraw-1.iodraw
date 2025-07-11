@@ -138,7 +138,7 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-63" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="820" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-65" value="解析转存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="520" width="150" height="350" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-66" value="真实数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -149,6 +149,9 @@
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-70" value="虚拟终端&lt;div&gt;数据生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-71" value="虚拟数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
