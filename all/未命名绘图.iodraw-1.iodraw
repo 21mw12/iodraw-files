@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-19" value="系统服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="80" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-31" value="Subscriber&lt;br&gt;数据服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="80" height="30" as="geometry" />
