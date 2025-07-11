@@ -49,7 +49,7 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-12" value="Breaker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-13" value="Breaker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-13" value="Publisher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
