@@ -112,7 +112,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-55" value="现在：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-56" value="计划：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="325" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
