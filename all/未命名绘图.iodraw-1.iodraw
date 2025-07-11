@@ -139,7 +139,7 @@
           <mxGeometry x="100" y="820" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="520" width="150" height="350" as="geometry" />
+          <mxGeometry x="330" y="520" width="190" height="350" as="geometry" />
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-66" value="真实数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="230" height="60" as="geometry" />
@@ -152,6 +152,12 @@
         </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-71" value="解析转存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-72" value="数据分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-73" value="数据分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="670" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
