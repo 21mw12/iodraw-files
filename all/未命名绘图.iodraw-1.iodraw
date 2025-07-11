@@ -252,8 +252,14 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-91" value="真实数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="520" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-92" value="虚拟数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="710" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="620" as="sourcePoint" />
+            <mxPoint x="900" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
