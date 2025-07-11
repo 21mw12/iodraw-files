@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="120" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-5" value="真实数据表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
         </mxCell>
@@ -45,8 +48,8 @@
         <mxCell id="S-gGk2eAG2BUxmPLWSZn-24" value="虚拟数据表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S-gGk2eAG2BUxmPLWSZn-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="S-gGk2eAG2BUxmPLWSZn-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
