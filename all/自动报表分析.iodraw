@@ -317,9 +317,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BCvrvEcMFh7EfKI-qwd-12" value="鉴权" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="390" width="80" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
