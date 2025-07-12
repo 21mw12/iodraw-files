@@ -323,8 +323,11 @@
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-14" value="查数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BCvrvEcMFh7EfKI-qwd-15" value="tongli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="380" width="80" height="40" as="geometry" />
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="940" y="400" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
