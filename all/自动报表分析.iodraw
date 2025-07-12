@@ -318,10 +318,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-13" value="查数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="1100" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-14" value="查数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-15" value="查数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="330" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
