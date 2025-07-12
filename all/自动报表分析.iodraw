@@ -397,10 +397,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BCvrvEcMFh7EfKI-qwd-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-34" value="选模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7BCvrvEcMFh7EfKI-qwd-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-35" value="查记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
