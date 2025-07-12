@@ -377,10 +377,14 @@
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-31" value="生成JSON存数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="630" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BCvrvEcMFh7EfKI-qwd-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BCvrvEcMFh7EfKI-qwd-22" target="7BCvrvEcMFh7EfKI-qwd-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="650" as="sourcePoint" />
             <mxPoint x="960" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="620" />
+              <mxPoint x="1050" y="620" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
