@@ -289,13 +289,13 @@
           <mxGeometry x="1000" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-6" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="955" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1000" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-7" value="AI分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1095" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7BCvrvEcMFh7EfKI-qwd-9" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="520" width="80" height="40" as="geometry" />
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-9" value="绘表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
