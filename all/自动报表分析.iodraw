@@ -288,6 +288,9 @@
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-1" value="获取权限&lt;div&gt;内数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="440" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7BCvrvEcMFh7EfKI-qwd-6" value="绘图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
