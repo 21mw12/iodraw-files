@@ -59,7 +59,7 @@
           <mxGeometry x="400" y="80" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-15" value="绘图绘表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="650" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="545" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-16" value="统计数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="650" width="80" height="40" as="geometry" />
@@ -114,7 +114,7 @@
             <mxPoint x="270" y="780" as="sourcePoint" />
             <mxPoint x="320" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="730" />
+              <mxPoint x="340" y="730" />
               <mxPoint x="400" y="730" />
             </Array>
           </mxGeometry>
