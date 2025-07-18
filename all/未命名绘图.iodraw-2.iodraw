@@ -212,28 +212,28 @@
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-51" value="数据状态&lt;div&gt;在线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-52" value="数据库状态&lt;br&gt;在线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-53" value="数据状态&lt;div&gt;离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-54" value="数据库状态&lt;div&gt;离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-55" value="不管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-56" value="不管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-57" value="添加预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-58" value="修改预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="130" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
