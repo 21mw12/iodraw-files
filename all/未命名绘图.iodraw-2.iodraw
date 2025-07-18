@@ -260,6 +260,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-25" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-26" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-27" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
