@@ -230,13 +230,16 @@
           <mxGeometry x="560" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-59" value="历史在线&lt;br&gt;当前离线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="270" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="275" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-60" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="330" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uMxEWyS60Aix2DTrbEja-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-61" target="uMxEWyS60Aix2DTrbEja-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-61" value="历史离线&lt;br&gt;当前在线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="270" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="275" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-62" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="330" width="80" height="40" as="geometry" />
