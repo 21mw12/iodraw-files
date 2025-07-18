@@ -16,9 +16,6 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-5" value="是否存在&lt;div&gt;传感器数据&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-6" target="4bBDq0O9qzqaARAq6u1f-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-6" value="&lt;div&gt;终端传感&lt;span style=&quot;background-color: initial;&quot;&gt;下线&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="510" y="220" width="80" height="40" as="geometry" />
         </mxCell>
@@ -229,36 +226,8 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-62" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="560" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-S0cV77yflqLg6UVqj1c-1" target="4bBDq0O9qzqaARAq6u1f-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-S0cV77yflqLg6UVqj1c-1" value="&lt;div&gt;传感器不在线&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="240" y="280" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-3" value="&lt;div&gt;终端或传感&lt;/div&gt;&lt;div&gt;判断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="510" y="280" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="4bBDq0O9qzqaARAq6u1f-3" target="uMxEWyS60Aix2DTrbEja-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="330" as="sourcePoint" />
-            <mxPoint x="450" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="330" />
-              <mxPoint x="500" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="4bBDq0O9qzqaARAq6u1f-3" target="uMxEWyS60Aix2DTrbEja-61">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="330" as="sourcePoint" />
-            <mxPoint x="460" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="330" />
-              <mxPoint x="600" y="330" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
