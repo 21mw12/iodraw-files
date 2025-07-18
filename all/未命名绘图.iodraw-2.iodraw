@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-17" value="传感器历史离线&lt;br&gt;传感器当前在线" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="235" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="175" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-18" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="340" y="390" width="80" height="40" as="geometry" />
@@ -266,7 +266,10 @@
           <mxGeometry x="500" y="220" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-27" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="10" height="10" as="geometry" />
+          <mxGeometry x="320" y="220" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-28" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
