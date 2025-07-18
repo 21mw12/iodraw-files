@@ -241,7 +241,7 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-60" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-61" value="历史在线&lt;br&gt;当前离线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-61" value="历史离线&lt;br&gt;当前在线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
