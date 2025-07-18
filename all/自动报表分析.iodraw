@@ -52,6 +52,9 @@
         <mxCell id="A8uBkzMjvj-TGYysvUWa-23" value="将报告JSON&lt;div&gt;保存到记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="790" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hCK0rLXrfW4tFOqR_q2J-2" value="读取报告JSON" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="860" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="hCK0rLXrfW4tFOqR_q2J-4" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="s-lqKnpN9JqedtjdA6v_-1" target="A8uBkzMjvj-TGYysvUWa-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="620" as="sourcePoint" />
@@ -86,6 +89,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="800" as="sourcePoint" />
             <mxPoint x="300" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCK0rLXrfW4tFOqR_q2J-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hCK0rLXrfW4tFOqR_q2J-2" target="A8uBkzMjvj-TGYysvUWa-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="890" as="sourcePoint" />
+            <mxPoint x="290" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hCK0rLXrfW4tFOqR_q2J-20" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;毕昇&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -136,6 +145,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="550" as="sourcePoint" />
             <mxPoint x="300" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Z6orRrDp4kNjmiEXzML-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A8uBkzMjvj-TGYysvUWa-10" target="hCK0rLXrfW4tFOqR_q2J-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="880" as="sourcePoint" />
+            <mxPoint x="560" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Z6orRrDp4kNjmiEXzML-6" value="提取报告JSON模板" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
