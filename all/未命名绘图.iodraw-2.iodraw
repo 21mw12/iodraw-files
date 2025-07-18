@@ -212,19 +212,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-59" value="终端历史在线&lt;br&gt;当前离线" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="460" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-60" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="460" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="uMxEWyS60Aix2DTrbEja-61" target="uMxEWyS60Aix2DTrbEja-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-61" value="终端历史离线&lt;br&gt;终端当前在线" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="560" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="670" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-62" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="560" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry x="670" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-S0cV77yflqLg6UVqj1c-1" value="&lt;div&gt;传感器不在线&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="240" y="280" width="80" height="40" as="geometry" />
