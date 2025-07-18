@@ -226,6 +226,9 @@
         <mxCell id="-S0cV77yflqLg6UVqj1c-1" value="&lt;div&gt;传感器不在线&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="390" y="370" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-3" value="&lt;div&gt;终端或传感&lt;/div&gt;&lt;div&gt;判断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
