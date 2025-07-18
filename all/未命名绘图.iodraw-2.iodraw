@@ -17,7 +17,7 @@
           <mxGeometry x="380" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-6" value="&lt;div&gt;终端传感&lt;span style=&quot;background-color: initial;&quot;&gt;下线&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="660" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-7" value="依次更新&lt;div&gt;传感器数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="480" width="80" height="40" as="geometry" />
@@ -223,28 +223,8 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-62" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="710" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uMxEWyS60Aix2DTrbEja-6" target="uMxEWyS60Aix2DTrbEja-59" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="270" as="sourcePoint" />
-            <mxPoint x="590" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="700" y="280" />
-              <mxPoint x="650" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uMxEWyS60Aix2DTrbEja-6" target="uMxEWyS60Aix2DTrbEja-61" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="260" as="sourcePoint" />
-            <mxPoint x="840" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="700" y="280" />
-              <mxPoint x="750" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-S0cV77yflqLg6UVqj1c-1" value="&lt;div&gt;传感器不在线&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="530" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="410" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
