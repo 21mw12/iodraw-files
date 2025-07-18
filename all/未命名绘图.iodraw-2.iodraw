@@ -211,7 +211,7 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-48" value="添加到报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-51" value="当前状态&lt;div&gt;在线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-51" value="数据状态&lt;div&gt;在线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-52" value="数据库状态&lt;br&gt;在线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -220,7 +220,7 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-53" value="当前状态&lt;div&gt;离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-54" value="现在状态&lt;div&gt;离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-54" value="数据库状态&lt;div&gt;离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-55" value="不管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
