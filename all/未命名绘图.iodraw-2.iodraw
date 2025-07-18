@@ -16,7 +16,7 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-5" value="是否存在&lt;div&gt;传感器数据&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-6" value="修改状态&lt;div&gt;终端及传感全部下线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-6" value="&lt;div&gt;终端及传感全部下线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
