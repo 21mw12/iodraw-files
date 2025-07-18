@@ -186,8 +186,8 @@
             <mxPoint x="540" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s-lqKnpN9JqedtjdA6v_-1" value="提取报告JSON模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="450" width="80" height="40" as="geometry" />
+        <mxCell id="s-lqKnpN9JqedtjdA6v_-1" value="数据查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="580" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
