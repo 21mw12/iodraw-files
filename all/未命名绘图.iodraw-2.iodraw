@@ -40,7 +40,7 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-15" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="450" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
