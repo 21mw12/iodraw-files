@@ -274,11 +274,17 @@
         <mxCell id="4bBDq0O9qzqaARAq6u1f-30" value="&lt;div&gt;结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="265" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4bBDq0O9qzqaARAq6u1f-13">
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bBDq0O9qzqaARAq6u1f-13" target="4bBDq0O9qzqaARAq6u1f-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="340" as="sourcePoint" />
             <mxPoint x="110" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="350" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-32" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
