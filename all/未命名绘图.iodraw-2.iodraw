@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7QIxhmIcqhbvoO5M6Pj7">
-    <mxGraphModel dx="640" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,28 +206,28 @@
           <mxGeometry x="480" y="400" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-51" value="数据状态&lt;div&gt;在线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-52" value="数据库状态&lt;br&gt;在线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="740" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-53" value="数据状态&lt;div&gt;离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="900" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-54" value="数据库状态&lt;div&gt;离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="740" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-55" value="不管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-56" value="不管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="900" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-57" value="添加预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="900" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-58" value="修改预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-59" target="uMxEWyS60Aix2DTrbEja-60">
           <mxGeometry relative="1" as="geometry" />
@@ -256,10 +256,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-6">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-6" target="uMxEWyS60Aix2DTrbEja-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="250" as="sourcePoint" />
             <mxPoint x="690" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
