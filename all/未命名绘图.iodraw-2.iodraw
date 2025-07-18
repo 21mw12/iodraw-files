@@ -16,7 +16,7 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-5" value="是否存在&lt;div&gt;传感器数据&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-6" value="&lt;div&gt;终端传感&lt;span style=&quot;background-color: initial;&quot;&gt;下线&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-6" value="&lt;div&gt;更新&lt;span style=&quot;background-color: initial;&quot;&gt;终端和&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;传感器状态&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="510" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-7" target="-S0cV77yflqLg6UVqj1c-1">
