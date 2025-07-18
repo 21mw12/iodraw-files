@@ -237,7 +237,7 @@
         <mxCell id="lVIgk135j5_ggebwHGEK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVIgk135j5_ggebwHGEK-21" target="yKJbVosyyMBoaLvigwL6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lVIgk135j5_ggebwHGEK-21" value="模板匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lVIgk135j5_ggebwHGEK-21" value="模板匹配&lt;br&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;（LLM还是语义匹配）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="510" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
