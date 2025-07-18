@@ -236,7 +236,7 @@
           <mxGeometry x="180" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-20" value="传感器历史在线&lt;br&gt;传感器当前离线" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="310" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="310" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-23" value="&lt;div&gt;结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="450" y="270" width="80" height="40" as="geometry" />
@@ -267,7 +267,7 @@
             <mxPoint x="280" y="380" as="sourcePoint" />
             <mxPoint x="330" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="350" />
+              <mxPoint x="360" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
