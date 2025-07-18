@@ -17,7 +17,7 @@
           <mxGeometry x="300" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-6" value="&lt;div&gt;终端及传感&lt;/div&gt;&lt;div&gt;全部下线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-7" value="依次更新&lt;div&gt;传感器数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="80" height="40" as="geometry" />
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-58" value="修改预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMxEWyS60Aix2DTrbEja-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-59" target="uMxEWyS60Aix2DTrbEja-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-59" value="历史在线&lt;br&gt;当前离线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="275" width="80" height="40" as="geometry" />
