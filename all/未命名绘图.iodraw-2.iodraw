@@ -206,7 +206,7 @@
           <mxGeometry x="480" y="400" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-51" value="当前状态&lt;div&gt;在线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="370" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="400" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-52" value="历史状态&lt;br&gt;在线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="60" height="40" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry x="560" y="480" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-55" value="不管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="440" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-56" value="不管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="450" width="80" height="40" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="730" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-58" value="修改预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="480" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMxEWyS60Aix2DTrbEja-59" target="uMxEWyS60Aix2DTrbEja-60">
           <mxGeometry relative="1" as="geometry" />
