@@ -23,10 +23,13 @@
           <mxGeometry x="360" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-8" value="检查阈值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="330" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-9" value="是否超过&lt;div&gt;所设阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uMxEWyS60Aix2DTrbEja-9" value="是否有&lt;div&gt;设置阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMxEWyS60Aix2DTrbEja-10" value="检查阈值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="330" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
