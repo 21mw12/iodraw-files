@@ -10,6 +10,9 @@
         <mxCell id="hCK0rLXrfW4tFOqR_q2J-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="320" width="240" height="610" as="geometry" />
         </mxCell>
+        <mxCell id="hCK0rLXrfW4tFOqR_q2J-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="240" height="610" as="geometry" />
+        </mxCell>
         <mxCell id="A8uBkzMjvj-TGYysvUWa-1" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="80" height="40" as="geometry" />
         </mxCell>
@@ -58,11 +61,12 @@
         <mxCell id="hCK0rLXrfW4tFOqR_q2J-2" value="读取报告JSON" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="860" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hCK0rLXrfW4tFOqR_q2J-3" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="hCK0rLXrfW4tFOqR_q2J-17" target="yKJbVosyyMBoaLvigwL6-2" edge="1">
+        <mxCell id="hCK0rLXrfW4tFOqR_q2J-3" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="A8uBkzMjvj-TGYysvUWa-3" target="yKJbVosyyMBoaLvigwL6-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="490" as="sourcePoint" />
             <mxPoint x="510" y="440" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="300" y="530" />
               <mxPoint x="300" y="540" />
             </Array>
           </mxGeometry>
@@ -185,18 +189,6 @@
         </mxCell>
         <mxCell id="7BCvrvEcMFh7EfKI-qwd-35" value="查记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2Z6orRrDp4kNjmiEXzML-1" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="A8uBkzMjvj-TGYysvUWa-4" target="hCK0rLXrfW4tFOqR_q2J-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="600" as="sourcePoint" />
-            <mxPoint x="360" y="540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hCK0rLXrfW4tFOqR_q2J-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="320" width="240" height="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
