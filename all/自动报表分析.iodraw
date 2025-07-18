@@ -231,7 +231,7 @@
         <mxCell id="lVIgk135j5_ggebwHGEK-12" value="content&lt;div&gt;报告JSON&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1161" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lVIgk135j5_ggebwHGEK-14" value="模板&lt;div&gt;权限校验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lVIgk135j5_ggebwHGEK-14" value="获取在使用的模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="370" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
