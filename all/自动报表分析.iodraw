@@ -177,6 +177,15 @@
             <mxPoint x="560" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2Z6orRrDp4kNjmiEXzML-6" value="将报告JSON&lt;div&gt;保存到记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Z6orRrDp4kNjmiEXzML-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Z6orRrDp4kNjmiEXzML-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
