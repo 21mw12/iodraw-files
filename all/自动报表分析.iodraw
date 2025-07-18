@@ -219,8 +219,8 @@
         <mxCell id="lVIgk135j5_ggebwHGEK-8" value="scope&lt;div&gt;使用范围&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="50" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lVIgk135j5_ggebwHGEK-9" value="&lt;div&gt;id&lt;/div&gt;模板编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="340" width="80" height="40" as="geometry" />
+        <mxCell id="lVIgk135j5_ggebwHGEK-9" value="&lt;div&gt;id&lt;/div&gt;记录编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="330" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
