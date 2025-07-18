@@ -235,8 +235,8 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-58" value="修改预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uMxEWyS60Aix2DTrbEja-59" value="是否超过&lt;div&gt;所设阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="80" height="40" as="geometry" />
+        <mxCell id="uMxEWyS60Aix2DTrbEja-59" value="历史在线&lt;br&gt;当前离线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
