@@ -220,7 +220,7 @@
         <mxCell id="uMxEWyS60Aix2DTrbEja-62" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="340" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bBDq0O9qzqaARAq6u1f-13" target="4bBDq0O9qzqaARAq6u1f-14">
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bBDq0O9qzqaARAq6u1f-13" target="4bBDq0O9qzqaARAq6u1f-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4bBDq0O9qzqaARAq6u1f-13" value="传感器&lt;div&gt;是否在线&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -238,7 +238,7 @@
         <mxCell id="4bBDq0O9qzqaARAq6u1f-18" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="340" y="390" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bBDq0O9qzqaARAq6u1f-20" value="传感器历史离线&lt;br&gt;传感器当前在线" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="4bBDq0O9qzqaARAq6u1f-20" value="传感器历史在线&lt;br&gt;传感器当前离线" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
