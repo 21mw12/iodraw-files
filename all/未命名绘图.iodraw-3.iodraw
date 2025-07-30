@@ -89,10 +89,10 @@
           <mxGeometry x="920" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-29" value="添加虚拟楼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="1000" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-30" value="创建空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="110" width="80" height="40" as="geometry" />
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-30" value="删除空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="100" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
