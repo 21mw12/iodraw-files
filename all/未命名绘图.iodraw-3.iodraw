@@ -11,16 +11,19 @@
           <mxGeometry x="360" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-3" value="真实数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="160" height="80" as="geometry" />
+          <mxGeometry x="490" y="610" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-4" value="虚拟数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="160" height="80" as="geometry" />
+          <mxGeometry x="290" y="610" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-5" value="API层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-6" value="Services层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-7" value="Mapper层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
