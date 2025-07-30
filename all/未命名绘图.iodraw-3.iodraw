@@ -70,8 +70,11 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Logger&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;日志&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="210" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Uuid&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;唯一ID生成&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Uuid&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;唯一ID生成&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="270" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Uuid&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;唯一ID生成&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
