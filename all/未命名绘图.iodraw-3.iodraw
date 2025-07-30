@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-1" value="虚拟数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-1" value="虚拟环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-2" value="真实数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-14" value="数据库映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-15" value="数据库映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-15" value="数据库实体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="460" width="340" height="80" as="geometry" />
         </mxCell>
       </root>
