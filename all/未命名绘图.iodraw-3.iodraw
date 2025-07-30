@@ -61,8 +61,11 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-19" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="110" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-20" value="MQTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="120" width="60" height="40" as="geometry" />
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-20" value="定时任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="70" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-21" value="定时任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="30" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
