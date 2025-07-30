@@ -19,8 +19,8 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-5" value="API层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-6" value="API层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="80" height="80" as="geometry" />
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-6" value="Services层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
