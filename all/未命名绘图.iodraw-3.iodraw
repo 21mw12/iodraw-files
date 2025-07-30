@@ -40,8 +40,11 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-12" value="Manager管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="160" width="80" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-13" value="虚拟数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="260" width="160" height="80" as="geometry" />
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-13" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-14" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="340" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
