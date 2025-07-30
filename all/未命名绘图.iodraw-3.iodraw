@@ -31,7 +31,7 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-9" value="数据库层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-10" value="Config配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="80" height="480" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-11" value="Utils工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,7 +50,10 @@
           <mxGeometry x="140" y="460" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-16" value="Config配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="120" width="70" height="30" as="geometry" />
+          <mxGeometry x="500" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
