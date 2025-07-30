@@ -124,6 +124,9 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-40" value="创建规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="340" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-41" value="删除规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
