@@ -10,11 +10,11 @@
         <mxCell id="Ao3h-_XXcwphSSnoGoli-2" value="真实数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ao3h-_XXcwphSSnoGoli-3" value="虚拟数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="160" height="80" as="geometry" />
+        <mxCell id="Ao3h-_XXcwphSSnoGoli-3" value="真实数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ao3h-_XXcwphSSnoGoli-4" value="虚拟数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="160" height="80" as="geometry" />
+          <mxGeometry x="160" y="320" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
