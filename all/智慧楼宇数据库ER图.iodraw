@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Tid_WdEVQYHPiqXQOl6S">
-    <mxGraphModel dx="1284" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,7 +676,7 @@
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="465" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sGEffAUYwrG2L_l3dDzQ-5" value="type&lt;div&gt;传感器类型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sGEffAUYwrG2L_l3dDzQ-5" value="&lt;div&gt;kind&lt;/div&gt;&lt;div&gt;传感器种类&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="131" y="375" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -784,7 +784,7 @@
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-3" value="rid&lt;div&gt;唯一id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="290" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-5" value="&lt;div&gt;kind&lt;/div&gt;&lt;div&gt;传感器种类&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-5" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="335" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.325;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="sGEffAUYwrG2L_l3dDzQ-2" target="KKTgP6Od6wfjdxHzc8nI-5" edge="1">
