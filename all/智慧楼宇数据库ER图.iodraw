@@ -640,7 +640,7 @@
             <mxPoint x="-650" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HofzfAZEAfIWRQf1qmjR-134" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HofzfAZEAfIWRQf1qmjR-13" edge="1">
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-134" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HofzfAZEAfIWRQf1qmjR-13" target="MFLcdhOyDfsJrUQAX8h--8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-670" y="130" as="sourcePoint" />
             <mxPoint x="-598.2842712474619" y="104.14213562373095" as="targetPoint" />
@@ -1023,6 +1023,9 @@
         </mxCell>
         <mxCell id="MFLcdhOyDfsJrUQAX8h--7" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MFLcdhOyDfsJrUQAX8h--8" value="&lt;div&gt;number&lt;/div&gt;&lt;div&gt;楼编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="70" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
