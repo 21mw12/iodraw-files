@@ -29,7 +29,7 @@
           <mxGeometry x="-190" y="130" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-20" value="spid" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-39" y="30" width="80" height="40" as="geometry" />
+          <mxGeometry x="-39" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-21" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tid&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;终端编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-70" y="80" width="80" height="40" as="geometry" />
