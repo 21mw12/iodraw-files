@@ -1027,6 +1027,9 @@
         <mxCell id="MFLcdhOyDfsJrUQAX8h--12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="250" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MFLcdhOyDfsJrUQAX8h--13" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="215" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
