@@ -181,7 +181,7 @@
         <mxCell id="HofzfAZEAfIWRQf1qmjR-5" value="status&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HofzfAZEAfIWRQf1qmjR-6" value="status&lt;div&gt;状态&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-6" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-8" value="type&lt;div&gt;终端类型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1027,7 +1027,7 @@
         <mxCell id="MFLcdhOyDfsJrUQAX8h--12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MFLcdhOyDfsJrUQAX8h--13" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MFLcdhOyDfsJrUQAX8h--13" value="status&lt;div&gt;状态&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="215" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MFLcdhOyDfsJrUQAX8h--14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MFLcdhOyDfsJrUQAX8h--13" target="Mj1f9SJ7XwkVNDqdx2za-2">
