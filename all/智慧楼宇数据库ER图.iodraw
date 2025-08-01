@@ -232,7 +232,7 @@
         <mxCell id="HofzfAZEAfIWRQf1qmjR-34" value="bid" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-420" y="50" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HofzfAZEAfIWRQf1qmjR-35" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="HofzfAZEAfIWRQf1qmjR-35" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-36" value="floor&lt;div&gt;楼层&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -748,7 +748,7 @@
             <mxPoint x="-710" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGEffAUYwrG2L_l3dDzQ-21" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sGEffAUYwrG2L_l3dDzQ-21" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.584;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-2" target="sGEffAUYwrG2L_l3dDzQ-21" edge="1">
@@ -784,7 +784,7 @@
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-3" value="rid&lt;div&gt;唯一id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="290" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KKTgP6Od6wfjdxHzc8nI-5" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="KKTgP6Od6wfjdxHzc8nI-5" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="335" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.323;entryY=0.965;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="sGEffAUYwrG2L_l3dDzQ-2" target="KKTgP6Od6wfjdxHzc8nI-5" edge="1">
@@ -1009,7 +1009,7 @@
         <mxCell id="MFLcdhOyDfsJrUQAX8h--5" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="190" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MFLcdhOyDfsJrUQAX8h--6" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="MFLcdhOyDfsJrUQAX8h--6" value="&lt;div&gt;property_id&lt;/div&gt;&lt;div&gt;资产编号&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-690" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MFLcdhOyDfsJrUQAX8h--7" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
