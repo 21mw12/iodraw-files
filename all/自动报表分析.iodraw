@@ -250,7 +250,10 @@
           <mxGeometry x="290" y="587" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-1" value="用户需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="880" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FKdzigAei48uknhuExR_-2" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
