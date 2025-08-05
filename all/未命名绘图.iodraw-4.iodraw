@@ -7,8 +7,8 @@
         <mxCell id="a3uLoHeW7nn0bReHbNKU-2" value="status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a3uLoHeW7nn0bReHbNKU-3" value="property_id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="a3uLoHeW7nn0bReHbNKU-3" value="property_id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a3uLoHeW7nn0bReHbNKU-4" value="property_name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="a3uLoHeW7nn0bReHbNKU-11" value="sensor_type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3uLoHeW7nn0bReHbNKU-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
