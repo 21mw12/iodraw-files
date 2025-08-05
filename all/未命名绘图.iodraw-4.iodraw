@@ -37,8 +37,8 @@
         <mxCell id="a3uLoHeW7nn0bReHbNKU-12" value="出现就不用&lt;span style=&quot;background-color: initial;&quot;&gt;深度查了&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a3uLoHeW7nn0bReHbNKU-13" value="出现就不用&lt;span style=&quot;background-color: initial;&quot;&gt;深度查了&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="50" width="110" height="60" as="geometry" />
+        <mxCell id="a3uLoHeW7nn0bReHbNKU-13" value="平级什么时候都可以" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
