@@ -29,13 +29,19 @@
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a3uLoHeW7nn0bReHbNKU-11" value="sensor_type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a3uLoHeW7nn0bReHbNKU-12" value="出现就不用&lt;span style=&quot;background-color: initial;&quot;&gt;深度查了&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a3uLoHeW7nn0bReHbNKU-13" value="平级什么时候都可以" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3uLoHeW7nn0bReHbNKU-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="120" as="sourcePoint" />
+            <mxPoint x="690" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
