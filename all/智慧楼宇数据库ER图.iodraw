@@ -866,7 +866,7 @@
           <mxGeometry x="-280" y="768.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-10" value="sid&lt;div&gt;监控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="758.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="751.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-11" value="csid&lt;div&gt;被控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-80.5" y="768.1199999999999" width="80" height="40" as="geometry" />
@@ -875,16 +875,16 @@
           <mxGeometry x="-70" y="828.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-13" value="trigger&lt;br&gt;&lt;div&gt;触发模式&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="878.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-80.5" y="889.9999999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-14" value="value&lt;div&gt;触发值&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="898.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="906.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-15" value="control&lt;div&gt;控制状态&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="878.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-280" y="889.9999999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-16" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="828.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-300" y="828.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-22" target="Mj1f9SJ7XwkVNDqdx2za-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
