@@ -1,14 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7QIxhmIcqhbvoO5M6Pj7">
-    <mxGraphModel dx="316" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-174" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PhI0aRI61DaWdQrzyX4h-129" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="550" width="270" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="550" width="420" height="250" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="310" width="420" height="200" as="geometry" />
@@ -169,129 +166,129 @@
           <mxGeometry x="995" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-67" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1051" y="595" width="10" height="10" as="geometry" />
+          <mxGeometry x="1050" y="595" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-68" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1051" y="635" width="10" height="10" as="geometry" />
+          <mxGeometry x="1050" y="635" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-84" value="是否有在&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;使用阈值&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="971" y="585" width="80" height="40" as="geometry" />
+          <mxGeometry x="970" y="585" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-86" value="是否超过&lt;div&gt;所设阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1061" y="625" width="80" height="40" as="geometry" />
+          <mxGeometry x="1060" y="625" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-87" value="是否存在&lt;span style=&quot;background-color: initial;&quot;&gt;正在&lt;/span&gt;&lt;div&gt;报警的记录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1161" y="665" width="80" height="40" as="geometry" />
+          <mxGeometry x="1160" y="665" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-89" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1111" y="715" width="80" height="40" as="geometry" />
+          <mxGeometry x="1110" y="715" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-90" value="是否存在&lt;span style=&quot;background-color: initial;&quot;&gt;正在&lt;/span&gt;&lt;div&gt;报警的记录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="961" y="665" width="80" height="40" as="geometry" />
+          <mxGeometry x="960" y="665" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-91" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="715" width="80" height="40" as="geometry" />
+          <mxGeometry x="1010" y="715" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-84" target="PhI0aRI61DaWdQrzyX4h-86" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="971" y="645" as="sourcePoint" />
-            <mxPoint x="1021" y="595" as="targetPoint" />
+            <mxPoint x="970" y="645" as="sourcePoint" />
+            <mxPoint x="1020" y="595" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1101" y="605" />
+              <mxPoint x="1100" y="605" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-86" target="PhI0aRI61DaWdQrzyX4h-87" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1181" y="605" as="sourcePoint" />
-            <mxPoint x="1231" y="555" as="targetPoint" />
+            <mxPoint x="1180" y="605" as="sourcePoint" />
+            <mxPoint x="1230" y="555" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1201" y="645" />
+              <mxPoint x="1200" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-87" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1231" y="635" as="sourcePoint" />
-            <mxPoint x="1061" y="785" as="targetPoint" />
+            <mxPoint x="1230" y="635" as="sourcePoint" />
+            <mxPoint x="1060" y="785" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1251" y="685" />
-              <mxPoint x="1251" y="765" />
-              <mxPoint x="1061" y="765" />
+              <mxPoint x="1250" y="685" />
+              <mxPoint x="1250" y="765" />
+              <mxPoint x="1060" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-96" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1141" y="635" width="10" height="10" as="geometry" />
+          <mxGeometry x="1140" y="635" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-97" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="675" width="10" height="10" as="geometry" />
+          <mxGeometry x="1240" y="675" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-87" target="PhI0aRI61DaWdQrzyX4h-89" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1061" y="845" as="sourcePoint" />
-            <mxPoint x="1111" y="795" as="targetPoint" />
+            <mxPoint x="1060" y="845" as="sourcePoint" />
+            <mxPoint x="1110" y="795" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1151" y="685" />
+              <mxPoint x="1150" y="685" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-99" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1151" y="675" width="10" height="10" as="geometry" />
+          <mxGeometry x="1150" y="675" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-86" target="PhI0aRI61DaWdQrzyX4h-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1041" y="715" as="sourcePoint" />
-            <mxPoint x="1091" y="665" as="targetPoint" />
+            <mxPoint x="1040" y="715" as="sourcePoint" />
+            <mxPoint x="1090" y="665" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1001" y="645" />
+              <mxPoint x="1000" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="941" y="675" as="sourcePoint" />
-            <mxPoint x="1061" y="785" as="targetPoint" />
+            <mxPoint x="940" y="675" as="sourcePoint" />
+            <mxPoint x="1060" y="785" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="951" y="685" />
-              <mxPoint x="951" y="765" />
-              <mxPoint x="1061" y="765" />
+              <mxPoint x="950" y="685" />
+              <mxPoint x="950" y="765" />
+              <mxPoint x="1060" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-90" target="PhI0aRI61DaWdQrzyX4h-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1061" y="695" as="sourcePoint" />
-            <mxPoint x="1111" y="645" as="targetPoint" />
+            <mxPoint x="1060" y="695" as="sourcePoint" />
+            <mxPoint x="1110" y="645" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1051" y="685" />
+              <mxPoint x="1050" y="685" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-103" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="951" y="675" width="10" height="10" as="geometry" />
+          <mxGeometry x="950" y="675" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-104" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1041" y="675" width="10" height="10" as="geometry" />
+          <mxGeometry x="1040" y="675" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-105" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="961" y="595" width="10" height="10" as="geometry" />
+          <mxGeometry x="960" y="595" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="891" y="645" as="sourcePoint" />
-            <mxPoint x="1061" y="785" as="targetPoint" />
+            <mxPoint x="890" y="645" as="sourcePoint" />
+            <mxPoint x="1060" y="785" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="931" y="605" />
-              <mxPoint x="931" y="765" />
-              <mxPoint x="1061" y="765" />
+              <mxPoint x="930" y="605" />
+              <mxPoint x="930" y="765" />
+              <mxPoint x="1060" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-107" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="PhI0aRI61DaWdQrzyX4h-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1011" y="565" as="sourcePoint" />
-            <mxPoint x="981" y="525" as="targetPoint" />
+            <mxPoint x="1010" y="565" as="sourcePoint" />
+            <mxPoint x="980" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-110" value="报警阈值检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -383,10 +380,10 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-130" value="规则阈值检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1520" y="550" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-51" target="PhI0aRI61DaWdQrzyX4h-108" edge="1">
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="480" as="sourcePoint" />
-            <mxPoint x="940" y="430" as="targetPoint" />
+            <mxPoint x="1090" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1200" y="530" />
               <mxPoint x="1090" y="530" />
