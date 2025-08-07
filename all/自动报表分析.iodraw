@@ -256,10 +256,10 @@
           <mxGeometry x="940" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-3" value="获取相应数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="1241" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-4" value="AI分析&lt;div&gt;部分数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1199.5" y="760" width="80" height="40" as="geometry" />
+          <mxGeometry x="1340" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-5" value="AI再分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1299.5" y="760" width="80" height="40" as="geometry" />
