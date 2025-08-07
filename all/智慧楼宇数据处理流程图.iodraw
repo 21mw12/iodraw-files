@@ -327,6 +327,9 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-10" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1241" y="110" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-11" target="PhI0aRI61DaWdQrzyX4h-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-11" value="遍历所有的传感器数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1131" y="240" width="140" height="40" as="geometry" />
         </mxCell>
