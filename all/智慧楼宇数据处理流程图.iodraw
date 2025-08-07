@@ -593,8 +593,8 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-109" value="规则阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-110" value="在线检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="325" width="60" height="30" as="geometry" />
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-110" value="报警阈值检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="325" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
