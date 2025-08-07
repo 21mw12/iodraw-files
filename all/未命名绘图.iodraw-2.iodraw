@@ -599,7 +599,7 @@
         <mxCell id="0bY57O5Rizo8OaRY7JSr-63" value="报警阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-64" value="规则检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0bY57O5Rizo8OaRY7JSr-64" value="规则阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-66" value="终端发来数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
