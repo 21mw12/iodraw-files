@@ -413,7 +413,7 @@
           <mxGeometry x="1300" y="940" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-4" value="执行控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="890" width="80" height="40" as="geometry" />
+          <mxGeometry x="1385" y="890" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-5" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="940" width="80" height="40" as="geometry" />
