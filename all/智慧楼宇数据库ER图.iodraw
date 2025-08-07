@@ -1037,22 +1037,25 @@
           <mxGeometry x="-30" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-1" value="rid&lt;div&gt;规则id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="900" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-2" value="s&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="989" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-3" value="feild" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1170" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-4" value="trigger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1401" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1261" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-5" value="value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1350" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;csid&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1080" y="590" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;threshold&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
