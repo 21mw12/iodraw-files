@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7QIxhmIcqhbvoO5M6Pj7">
-    <mxGraphModel dx="2367" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,72 +298,78 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-61" value="在线检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-62" value="活跃检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-63" value="报警阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-64" value="规则阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-66" value="终端发来数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="20" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0bY57O5Rizo8OaRY7JSr-67" target="0bY57O5Rizo8OaRY7JSr-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-67" value="gateid是否&lt;div&gt;有注册&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-68" value="写入异常日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="830" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0bY57O5Rizo8OaRY7JSr-66" target="0bY57O5Rizo8OaRY7JSr-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="80" as="sourcePoint" />
-            <mxPoint x="1180" y="30" as="targetPoint" />
+            <mxPoint x="610" y="100" as="sourcePoint" />
+            <mxPoint x="660" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-74" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="120" width="10" height="10" as="geometry" />
+          <mxGeometry x="760" y="140" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-75" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="90" width="10" height="10" as="geometry" />
+          <mxGeometry x="800" y="110" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0bY57O5Rizo8OaRY7JSr-83" target="0bY57O5Rizo8OaRY7JSr-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-83" value="遍历所有的传感器数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="220" width="140" height="40" as="geometry" />
+          <mxGeometry x="690" y="240" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0bY57O5Rizo8OaRY7JSr-84" target="0bY57O5Rizo8OaRY7JSr-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-84" value="是否存在&lt;div&gt;传感器数据&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-88" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="190" width="10" height="10" as="geometry" />
+          <mxGeometry x="760" y="210" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-89" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="160" width="10" height="10" as="geometry" />
+          <mxGeometry x="800" y="180" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-90" value="设置传感器&lt;div&gt;全部离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="830" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0bY57O5Rizo8OaRY7JSr-84" target="0bY57O5Rizo8OaRY7JSr-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1340" y="330" as="sourcePoint" />
-            <mxPoint x="1390" y="280" as="targetPoint" />
+            <mxPoint x="820" y="350" as="sourcePoint" />
+            <mxPoint x="870" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0bY57O5Rizo8OaRY7JSr-67" target="0bY57O5Rizo8OaRY7JSr-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="130" as="sourcePoint" />
-            <mxPoint x="1210" y="80" as="targetPoint" />
+            <mxPoint x="640" y="150" as="sourcePoint" />
+            <mxPoint x="690" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="630" as="sourcePoint" />
+            <mxPoint x="850" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
