@@ -259,10 +259,10 @@
           <mxGeometry x="1241" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-4" value="AI分析&lt;div&gt;部分数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="1340" y="615" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-5" value="AI再分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="1440" y="615" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-6" value="保存分析结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1399.5" y="760" width="80" height="40" as="geometry" />
@@ -280,10 +280,7 @@
           <mxGeometry x="1140" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fBcmLNg1VXNNn528vZZs-6" value="图表格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="640" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fBcmLNg1VXNNn528vZZs-7" value="图表格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="650" width="80" height="40" as="geometry" />
+          <mxGeometry x="1390" y="665" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
