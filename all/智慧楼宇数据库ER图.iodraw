@@ -659,10 +659,10 @@
           <mxGeometry x="131" y="375" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="895" width="80" height="40" as="geometry" />
+          <mxGeometry x="-726" y="895" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-7" value="sid" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="895" width="80" height="40" as="geometry" />
+          <mxGeometry x="-622.5" y="895" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.356;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-49" target="sGEffAUYwrG2L_l3dDzQ-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -677,7 +677,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-10" value="time&lt;div&gt;上传时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="895" width="80" height="40" as="geometry" />
+          <mxGeometry x="-530" y="895" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-11" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sGEffAUYwrG2L_l3dDzQ-5" target="sGEffAUYwrG2L_l3dDzQ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1016,31 +1016,31 @@
           <mxGeometry x="-30" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;regulation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;阈值&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="810.56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-8" value="&lt;div&gt;r&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="450" y="796" width="80" height="40" as="geometry" />
+          <mxGeometry x="490" y="746.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-10" value="sid&lt;div&gt;监控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="775" width="80" height="40" as="geometry" />
+          <mxGeometry x="590" y="725.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-11" value="csid&lt;div&gt;被控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="785" width="80" height="40" as="geometry" />
+          <mxGeometry x="680" y="735.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-12" value="feild&lt;br&gt;&lt;div&gt;阈值字段&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="851" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="801.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-13" value="trigger&lt;br&gt;&lt;div&gt;触发模式&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="916" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="866.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-14" value="value&lt;div&gt;触发值&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="956" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="906.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-15" value="control&lt;div&gt;控制状态&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="956" width="80" height="40" as="geometry" />
+          <mxGeometry x="530" y="906.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-16" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="911" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="861.56" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
