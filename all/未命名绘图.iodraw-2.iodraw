@@ -662,15 +662,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1340" y="240" as="sourcePoint" />
-            <mxPoint x="1440" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1411" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-88" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="230" width="10" height="10" as="geometry" />
         </mxCell>
@@ -679,6 +670,12 @@
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-90" value="传感器&lt;div&gt;全部离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bY57O5Rizo8OaRY7JSr-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-84" target="0bY57O5Rizo8OaRY7JSr-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="340" as="sourcePoint" />
+            <mxPoint x="1410" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
