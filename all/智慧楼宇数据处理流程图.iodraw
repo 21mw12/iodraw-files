@@ -168,9 +168,6 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-52" value="在线检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="995" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-54" value="活跃检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="615" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-67" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1161" y="595" width="10" height="10" as="geometry" />
         </mxCell>
