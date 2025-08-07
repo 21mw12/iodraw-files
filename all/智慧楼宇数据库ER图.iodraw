@@ -551,7 +551,7 @@
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="231" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="235" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-5" value="&lt;div&gt;kind&lt;/div&gt;&lt;div&gt;传感器种类&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="587" y="60" width="80" height="40" as="geometry" />
@@ -950,6 +950,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="280" as="sourcePoint" />
             <mxPoint x="340" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="260" as="sourcePoint" />
+            <mxPoint x="250" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
