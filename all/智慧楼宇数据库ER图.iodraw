@@ -1045,6 +1045,9 @@
         <mxCell id="B9uMRte4k0_124SapJLA-17" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;alarm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;报警&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-18" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;log&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
