@@ -1063,8 +1063,8 @@
         <mxCell id="B9uMRte4k0_124SapJLA-13" value="trigger&lt;br&gt;&lt;div&gt;触发模式&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="855" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B9uMRte4k0_124SapJLA-14" value="trigger&lt;br&gt;&lt;div&gt;触发模式&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="865" width="80" height="40" as="geometry" />
+        <mxCell id="B9uMRte4k0_124SapJLA-14" value="value&lt;div&gt;触发值&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="895" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
