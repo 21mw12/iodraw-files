@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7QIxhmIcqhbvoO5M6Pj7">
-    <mxGraphModel dx="-370" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="119" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,26 +300,6 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-130" value="规则阈值检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1500" y="840" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-51" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="480" as="sourcePoint" />
-            <mxPoint x="1090" y="550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="530" />
-              <mxPoint x="1090" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-133" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhI0aRI61DaWdQrzyX4h-51" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1540" y="480" as="sourcePoint" />
-            <mxPoint x="1464.9999999999998" y="550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="530" />
-              <mxPoint x="1465" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-1" value="是否存在&lt;span style=&quot;background-color: initial;&quot;&gt;正在&lt;/span&gt;&lt;div&gt;报警的记录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="660" width="80" height="40" as="geometry" />
         </mxCell>
@@ -430,9 +410,12 @@
         </mxCell>
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MiU1hTYiKBaqnM-zuv4t-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="600" as="sourcePoint" />
+            <mxPoint x="1370" y="560" as="sourcePoint" />
             <mxPoint x="1260" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MiU1hTYiKBaqnM-zuv4t-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
