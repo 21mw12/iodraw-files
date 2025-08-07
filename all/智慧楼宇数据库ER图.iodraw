@@ -638,7 +638,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IoBXoLbtuT7WARv3D8yr-1" value="&lt;div&gt;last_time&lt;/div&gt;&lt;div&gt;上次登录时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-567" y="578.12" width="80" height="40" as="geometry" />
+          <mxGeometry x="-557" y="581.5600000000001" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KKTgP6Od6wfjdxHzc8nI-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;role&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;角色&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-707" y="378.12" width="120" height="60" as="geometry" />
