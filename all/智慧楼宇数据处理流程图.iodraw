@@ -658,11 +658,14 @@
             <mxPoint x="1460" y="670" as="sourcePoint" />
             <mxPoint x="1640" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1510" y="590" />
-              <mxPoint x="1510" y="760" />
+              <mxPoint x="1520" y="590" />
+              <mxPoint x="1520" y="760" />
               <mxPoint x="1640" y="760" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-125" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="685" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
