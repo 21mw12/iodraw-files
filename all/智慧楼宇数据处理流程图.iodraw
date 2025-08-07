@@ -587,6 +587,9 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-83" value="报警阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1171" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-84" value="是否有&lt;div&gt;设置阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1901" y="670" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
