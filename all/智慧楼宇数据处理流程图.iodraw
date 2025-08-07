@@ -409,7 +409,7 @@
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-3" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MiU1hTYiKBaqnM-zuv4t-4" value="执行控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MiU1hTYiKBaqnM-zuv4t-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="950" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-5" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
