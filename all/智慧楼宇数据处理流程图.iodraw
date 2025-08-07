@@ -409,6 +409,12 @@
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-2" value="是否存在&lt;span style=&quot;background-color: initial;&quot;&gt;正在&lt;/span&gt;&lt;div&gt;报警的记录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="840" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MiU1hTYiKBaqnM-zuv4t-3" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="940" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MiU1hTYiKBaqnM-zuv4t-4" value="执行控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="675" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
