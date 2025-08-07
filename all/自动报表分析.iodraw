@@ -279,7 +279,7 @@
         <mxCell id="fBcmLNg1VXNNn528vZZs-5" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="690" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fBcmLNg1VXNNn528vZZs-6" value="AI分析&lt;div&gt;部分数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fBcmLNg1VXNNn528vZZs-6" value="图表格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
