@@ -311,13 +311,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-67" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;threshold&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="381.5599999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="381.5599999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-68" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;record&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;操作记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-666" y="818.1199999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-69" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;alarm&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;报警记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="607.56" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="607.56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-70" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.153;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sGEffAUYwrG2L_l3dDzQ-2" target="Mj1f9SJ7XwkVNDqdx2za-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -344,28 +344,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-78" value="&lt;div&gt;thid&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="341.5599999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-270" y="341.5599999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-79" value="sid" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="323.12000000000006" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="323.12000000000006" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-81" value="field&lt;div&gt;阈值字段&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="341.5600000000001" width="80" height="40" as="geometry" />
+          <mxGeometry x="-90" y="341.5600000000001" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-82" value="max&lt;div&gt;阈值上线&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="441.5600000000001" width="80" height="40" as="geometry" />
+          <mxGeometry x="-90" y="441.5600000000001" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-83" value="min&lt;div&gt;阈值下线&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="461.5599999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="461.5599999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-84" value="一条记录只记录某个传感器的某个值" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="20" y="313.12" width="100" height="50" as="geometry" />
+          <mxGeometry y="313.12" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-85" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-776" y="798.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-86" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-278.5" y="567.56" width="75" height="40" as="geometry" />
+          <mxGeometry x="-268.5" y="567.56" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-88" value="&lt;span style=&quot;text-align: left;&quot;&gt;description&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;备注&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-516" y="798.1199999999999" width="80" height="40" as="geometry" />
@@ -497,21 +497,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-117" value="start_time&lt;div&gt;开始报警时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="688.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="688.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-118" value="rid&lt;div&gt;关联项目id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="547.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="547.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-119" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;content&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;报警内容&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-281" y="667.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="-271" y="667.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-120" value="end_time&lt;div&gt;结束报警时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="667.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="-90" y="667.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-132" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HofzfAZEAfIWRQf1qmjR-84" target="HofzfAZEAfIWRQf1qmjR-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-15" y="306.5599999999999" as="sourcePoint" />
-            <mxPoint x="-376" y="486.5599999999999" as="targetPoint" />
+            <mxPoint x="-5" y="306.5599999999999" as="sourcePoint" />
+            <mxPoint x="-366" y="486.5599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-133" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HofzfAZEAfIWRQf1qmjR-13" target="MFLcdhOyDfsJrUQAX8h--6" edge="1">
@@ -545,7 +545,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Vq5dUU5tZjOkGE93m-4-1" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-276" y="441.5599999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-266" y="441.5599999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;传感器&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
@@ -818,10 +818,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wPv993TnjIiY1E4WMNb4-2" value="item&lt;div&gt;关联项目&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="567.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="-90" y="567.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wPv993TnjIiY1E4WMNb4-5" value="thid&lt;div&gt;rid&lt;/div&gt;&lt;div&gt;sid&lt;/div&gt;&lt;div&gt;tid&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="513.1199999999999" width="50" height="65" as="geometry" />
+          <mxGeometry y="513.1199999999999" width="50" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VUbhqf6KJmhk6yTowor9-1" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="210" width="80" height="40" as="geometry" />
@@ -890,31 +890,31 @@
           <mxGeometry x="462" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;regulation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;规则&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="818.1199999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="818.1199999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-8" value="&lt;div&gt;r&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="778.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-270" y="778.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-10" value="sid&lt;div&gt;监控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="758.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="758.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-11" value="csid&lt;div&gt;被控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="778.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-95" y="778.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-12" value="feild&lt;br&gt;&lt;div&gt;阈值字段&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="828.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-70" y="828.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-13" value="trigger&lt;br&gt;&lt;div&gt;触发模式&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="878.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-90" y="878.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-14" value="value&lt;div&gt;触发值&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="898.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="898.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-15" value="control&lt;div&gt;控制状态&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="878.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-270" y="878.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-16" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="828.1199999999999" width="80" height="40" as="geometry" />
+          <mxGeometry x="-290" y="828.1199999999999" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-22" target="Mj1f9SJ7XwkVNDqdx2za-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -972,8 +972,8 @@
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HofzfAZEAfIWRQf1qmjR-118" target="wPv993TnjIiY1E4WMNb4-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-200" y="537.56" as="sourcePoint" />
-            <mxPoint x="-210" y="520.06" as="targetPoint" />
+            <mxPoint x="-190" y="537.56" as="sourcePoint" />
+            <mxPoint x="-200" y="520.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
