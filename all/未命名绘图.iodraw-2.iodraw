@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="160" width="200" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="uMxEWyS60Aix2DTrbEja-1" value="终端发来数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="40" width="80" height="40" as="geometry" />
         </mxCell>
@@ -629,10 +626,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-67" target="0bY57O5Rizo8OaRY7JSr-82">
+        <mxCell id="0bY57O5Rizo8OaRY7JSr-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1150" y="130" as="sourcePoint" />
-            <mxPoint x="1301" y="160" as="targetPoint" />
+            <mxPoint x="1300" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1301" y="120" />
             </Array>
@@ -644,7 +641,7 @@
         <mxCell id="0bY57O5Rizo8OaRY7JSr-75" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="110" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-83" value="遍历所有的传感器数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0bY57O5Rizo8OaRY7JSr-83" value="遍历所有的传感器数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1200" y="160" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
