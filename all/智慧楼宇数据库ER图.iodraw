@@ -1015,32 +1015,32 @@
         <mxCell id="MFLcdhOyDfsJrUQAX8h--15" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B9uMRte4k0_124SapJLA-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;regulation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;阈值&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="810.56" width="120" height="60" as="geometry" />
+        <mxCell id="B9uMRte4k0_124SapJLA-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;regulation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;规则&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-8" value="&lt;div&gt;r&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="490" y="746.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="701" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-10" value="sid&lt;div&gt;监控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="590" y="725.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="800" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-11" value="csid&lt;div&gt;被控id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="680" y="735.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="890" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-12" value="feild&lt;br&gt;&lt;div&gt;阈值字段&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="801.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="930" y="756" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-13" value="trigger&lt;br&gt;&lt;div&gt;触发模式&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="866.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="930" y="821" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-14" value="value&lt;div&gt;触发值&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="906.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="850" y="861" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-15" value="control&lt;div&gt;控制状态&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="906.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="740" y="861" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-16" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="861.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="660" y="816" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
