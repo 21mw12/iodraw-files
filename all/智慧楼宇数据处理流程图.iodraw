@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7QIxhmIcqhbvoO5M6Pj7">
-    <mxGraphModel dx="119" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-370" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,7 +332,7 @@
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-5" value="将报警记录转为结束报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="710" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MiU1hTYiKBaqnM-zuv4t-6" value="是否有在&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;使用阈值&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MiU1hTYiKBaqnM-zuv4t-6" value="是否有在&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;使用规则&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MiU1hTYiKBaqnM-zuv4t-7" value="是否超过&lt;div&gt;所设规则&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -426,6 +426,12 @@
               <mxPoint x="1290" y="760" />
               <mxPoint x="1450" y="760" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiU1hTYiKBaqnM-zuv4t-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MiU1hTYiKBaqnM-zuv4t-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="600" as="sourcePoint" />
+            <mxPoint x="1260" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
