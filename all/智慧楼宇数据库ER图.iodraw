@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Tid_WdEVQYHPiqXQOl6S">
-    <mxGraphModel dx="1376" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2839" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1035,6 +1035,24 @@
         </mxCell>
         <mxCell id="MFLcdhOyDfsJrUQAX8h--15" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-1" value="rid&lt;div&gt;规则id&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-2" value="s&lt;span style=&quot;background-color: initial;&quot;&gt;id&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1129" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-3" value="feild" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-4" value="trigger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1401" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-5" value="value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;csid&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
