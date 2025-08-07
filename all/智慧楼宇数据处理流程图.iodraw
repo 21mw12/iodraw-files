@@ -447,7 +447,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-22" value="传感器&lt;div&gt;现在在线&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="1199" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-23" value="&lt;div&gt;更新状态&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&lt;/span&gt;&lt;/div&gt;新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="500" width="80" height="40" as="geometry" />
@@ -465,10 +465,10 @@
           <mxGeometry x="1040" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-32" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="390" width="10" height="10" as="geometry" />
+          <mxGeometry x="1280" y="390" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-33" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="390" width="10" height="10" as="geometry" />
+          <mxGeometry x="1190" y="390" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-36" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="450" width="10" height="10" as="geometry" />
