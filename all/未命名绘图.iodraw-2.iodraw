@@ -596,8 +596,11 @@
         <mxCell id="0bY57O5Rizo8OaRY7JSr-62" value="活跃检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-63" value="活跃检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="0bY57O5Rizo8OaRY7JSr-63" value="阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bY57O5Rizo8OaRY7JSr-64" value="阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
