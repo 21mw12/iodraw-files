@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7QIxhmIcqhbvoO5M6Pj7">
-    <mxGraphModel dx="489" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,57 +304,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-4" value="终端发来数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="1160" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-6" target="PhI0aRI61DaWdQrzyX4h-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-6" value="gateid是否&lt;div&gt;有注册&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="100" width="80" height="40" as="geometry" />
+          <mxGeometry x="1160" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-7" value="写入异常日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1271" y="100" width="80" height="40" as="geometry" />
+          <mxGeometry x="1270" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-4" target="PhI0aRI61DaWdQrzyX4h-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1051" y="100" as="sourcePoint" />
-            <mxPoint x="1101" y="50" as="targetPoint" />
+            <mxPoint x="1050" y="100" as="sourcePoint" />
+            <mxPoint x="1100" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-9" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="140" width="10" height="10" as="geometry" />
+          <mxGeometry x="1200" y="140" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-10" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="110" width="10" height="10" as="geometry" />
+          <mxGeometry x="1240" y="110" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-11" value="遍历所有的传感器数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="240" width="140" height="40" as="geometry" />
+          <mxGeometry x="1130" y="240" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-13" target="PhI0aRI61DaWdQrzyX4h-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-13" value="是否存在&lt;div&gt;传感器数据&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="170" width="80" height="40" as="geometry" />
+          <mxGeometry x="1160" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="210" width="10" height="10" as="geometry" />
+          <mxGeometry x="1200" y="210" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-15" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="180" width="10" height="10" as="geometry" />
+          <mxGeometry x="1240" y="180" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-16" value="设置传感器&lt;div&gt;全部离线&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1271" y="170" width="80" height="40" as="geometry" />
+          <mxGeometry x="1270" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-13" target="PhI0aRI61DaWdQrzyX4h-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1261" y="350" as="sourcePoint" />
-            <mxPoint x="1311" y="300" as="targetPoint" />
+            <mxPoint x="1260" y="350" as="sourcePoint" />
+            <mxPoint x="1310" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-6" target="PhI0aRI61DaWdQrzyX4h-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1081" y="150" as="sourcePoint" />
-            <mxPoint x="1131" y="100" as="targetPoint" />
+            <mxPoint x="1080" y="150" as="sourcePoint" />
+            <mxPoint x="1130" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-22" value="传感器&lt;div&gt;现在在线&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -605,7 +605,7 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-114" value="执行控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="650" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-11">
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PhI0aRI61DaWdQrzyX4h-11" target="PhI0aRI61DaWdQrzyX4h-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="260" as="sourcePoint" />
             <mxPoint x="1030" y="210" as="targetPoint" />
