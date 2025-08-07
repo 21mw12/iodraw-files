@@ -621,7 +621,7 @@
           <mxGeometry x="1220" y="140" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-75" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="110" width="10" height="10" as="geometry" />
+          <mxGeometry x="1260" y="110" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-83" value="遍历所有的传感器数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1230" y="220" width="140" height="40" as="geometry" />
@@ -646,9 +646,6 @@
             <mxPoint x="1360" y="340" as="sourcePoint" />
             <mxPoint x="1410" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-75" target="0bY57O5Rizo8OaRY7JSr-75">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
