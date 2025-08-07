@@ -350,10 +350,10 @@
           <mxGeometry x="-690" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-81" value="field&lt;div&gt;阈值字段&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-580" y="310.00000000000006" width="80" height="40" as="geometry" />
+          <mxGeometry x="-600" y="310.00000000000006" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-82" value="max&lt;div&gt;阈值上线&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="431.56000000000006" width="80" height="40" as="geometry" />
+          <mxGeometry x="-600" y="421.56000000000006" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HofzfAZEAfIWRQf1qmjR-83" value="min&lt;div&gt;阈值下线&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-690" y="461.56" width="80" height="40" as="geometry" />
@@ -545,7 +545,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Vq5dUU5tZjOkGE93m-4-1" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-776" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="-776" y="421.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGEffAUYwrG2L_l3dDzQ-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;sensor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;传感器&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
