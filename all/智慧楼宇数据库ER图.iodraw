@@ -902,7 +902,7 @@
           <mxGeometry x="-90" y="726.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-12" value="feild&lt;br&gt;&lt;div&gt;阈值字段&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="792.56" width="80" height="40" as="geometry" />
+          <mxGeometry x="-70" y="811.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-13" value="trigger&lt;br&gt;&lt;div&gt;触发模式&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="857.56" width="80" height="40" as="geometry" />
@@ -914,7 +914,7 @@
           <mxGeometry x="-240" y="897.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-16" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="851.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="-290" y="811.56" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mj1f9SJ7XwkVNDqdx2za-22" target="Mj1f9SJ7XwkVNDqdx2za-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
