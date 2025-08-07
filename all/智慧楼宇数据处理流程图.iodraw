@@ -599,7 +599,7 @@
         <mxCell id="PhI0aRI61DaWdQrzyX4h-112" value="是否超过&lt;div&gt;所设阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="610" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PhI0aRI61DaWdQrzyX4h-113" value="添加报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-113" value="添加控制记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-114" value="执行控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
