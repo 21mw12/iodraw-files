@@ -282,6 +282,9 @@
         <mxCell id="fBcmLNg1VXNNn528vZZs-6" value="图表格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="640" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fBcmLNg1VXNNn528vZZs-7" value="图表格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
