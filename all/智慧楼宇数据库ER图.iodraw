@@ -35,7 +35,7 @@
           <mxGeometry x="-90" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-22" value="last_time&lt;div&gt;上次上报时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="161" y="175" width="80" height="40" as="geometry" />
+          <mxGeometry x="131" y="175" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mj1f9SJ7XwkVNDqdx2za-23" value="type&lt;div&gt;终端类型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="131" y="90" width="80" height="40" as="geometry" />
@@ -933,6 +933,12 @@
         </mxCell>
         <mxCell id="B9uMRte4k0_124SapJLA-16" value="&lt;div&gt;is_used&lt;/div&gt;&lt;div&gt;是否在使用&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="542" y="754.94" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9uMRte4k0_124SapJLA-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Mj1f9SJ7XwkVNDqdx2za-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="330" as="sourcePoint" />
+            <mxPoint x="-30" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
