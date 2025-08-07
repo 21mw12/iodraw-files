@@ -590,16 +590,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1281" y="350.02857142857147" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-61" value="在线检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1141" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-62" value="活跃检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-63" value="阈值检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="545" width="120" height="60" as="geometry" />
