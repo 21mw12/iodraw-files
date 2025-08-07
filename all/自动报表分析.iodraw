@@ -172,7 +172,7 @@
           <mxGeometry x="1039.5" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-lqKnpN9JqedtjdA6v_-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;record&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;报告生成记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1038.75" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1425.25" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lVIgk135j5_ggebwHGEK-1" value="&lt;div&gt;id&lt;/div&gt;模板编号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="200" width="80" height="40" as="geometry" />
@@ -199,16 +199,16 @@
           <mxGeometry x="1000" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lVIgk135j5_ggebwHGEK-9" value="&lt;div&gt;id&lt;/div&gt;记录编号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949.25" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="1335.75" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lVIgk135j5_ggebwHGEK-10" value="&lt;div&gt;user_name&lt;/div&gt;&lt;div&gt;生成用户&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949.25" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="1335.75" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lVIgk135j5_ggebwHGEK-11" value="time&lt;div&gt;生成时间&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1169.75" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="1556.25" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lVIgk135j5_ggebwHGEK-12" value="content&lt;div&gt;报告JSON&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1169.75" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="1556.25" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lVIgk135j5_ggebwHGEK-14" value="获取权限内&lt;div&gt;在使用的模板&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="440" width="80" height="40" as="geometry" />
@@ -250,37 +250,37 @@
           <mxGeometry x="290" y="587" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-1" value="用户输入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="846" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-2" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="946" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-3" value="获取相应数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1247" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-4" value="AI分析&lt;div&gt;部分数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="615" width="80" height="40" as="geometry" />
+          <mxGeometry x="1346" y="465" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-5" value="AI再分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="615" width="80" height="40" as="geometry" />
+          <mxGeometry x="1446" y="465" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKdzigAei48uknhuExR_-6" value="保存分析结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1556" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fBcmLNg1VXNNn528vZZs-1" value="查询模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1046" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fBcmLNg1VXNNn528vZZs-3" value="处理第一章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="1146" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fBcmLNg1VXNNn528vZZs-4" value="处理第二章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1146" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fBcmLNg1VXNNn528vZZs-5" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="1146" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fBcmLNg1VXNNn528vZZs-6" value="图表格式化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="665" width="80" height="40" as="geometry" />
+          <mxGeometry x="1396" y="515" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
