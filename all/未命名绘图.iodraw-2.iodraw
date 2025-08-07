@@ -605,11 +605,6 @@
         <mxCell id="0bY57O5Rizo8OaRY7JSr-66" value="终端发来数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0bY57O5Rizo8OaRY7JSr-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0bY57O5Rizo8OaRY7JSr-67" value="gateid是否&lt;div&gt;有注册&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="100" width="80" height="40" as="geometry" />
         </mxCell>
@@ -650,6 +645,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1280" y="340" as="sourcePoint" />
             <mxPoint x="1330" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bY57O5Rizo8OaRY7JSr-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0bY57O5Rizo8OaRY7JSr-67" target="0bY57O5Rizo8OaRY7JSr-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="150" as="sourcePoint" />
+            <mxPoint x="1150" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
