@@ -597,7 +597,10 @@
           <mxGeometry x="1750" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PhI0aRI61DaWdQrzyX4h-112" value="是否超过&lt;div&gt;所设阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="625" width="80" height="40" as="geometry" />
+          <mxGeometry x="1840" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhI0aRI61DaWdQrzyX4h-113" value="新建报警记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="690" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
