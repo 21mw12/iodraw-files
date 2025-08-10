@@ -286,13 +286,13 @@
           <mxGeometry x="1790" y="438" width="340" height="172" as="geometry" />
         </mxCell>
         <mxCell id="74UvGZkyAMw4PF-77RGR-2" value="表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="494" width="280" height="60" as="geometry" />
+          <mxGeometry x="2120" y="525" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="74UvGZkyAMw4PF-77RGR-3" value="图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2190" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="74UvGZkyAMw4PF-77RGR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="658" width="340" height="172" as="geometry" />
+          <mxGeometry x="1790" y="618" width="340" height="172" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
